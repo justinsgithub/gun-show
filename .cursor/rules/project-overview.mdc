@@ -1,0 +1,49 @@
+---
+description: This rule is helpful in every task to help give understanding about the goals of the project
+globs: 
+alwaysApply: true
+---
+
+# Project Overview
+
+- I need to create a web application for a gun show called Lewis Clark Trader
+
+- This is their current website @https://lewisclarktrader.com
+
+- The Lewis Clark Trader is a small family business that hosts a gun show several times throughout the year in different locations, these locations are:
+
+  - Nampa, Idaho (Ford Idaho Center, Sports Center, 16200 Idaho Center Blvd.)
+  - Coeur d'Alene, Idaho (Kootenai County Fairgrounds, Buildings 1, 2, 3, 4056 N. Government Way)
+  - Post Falls, Idaho (Greyhound Park & Event Center, 5100 Riverbend Ave (Exit 1 – Beck Rd))
+  - Twin Falls, Idaho (Twin Falls County Fairgrounds, Fair Ave, Filer)
+  - Lewiston, Idaho (Nez Perce County Fair Pavilion, 1229 Burrell Ave)
+  - Moscow, Idaho (Latah County Fairgrounds, 1021 Harold)
+
+- At these shows, vendors purchase a table to display their products such as guns, ammunition, etc.. and guests come pay $10 to shop
+
+- Over the years the show attendance has steadily gone down
+
+## Web Application goals
+
+The overall goal of this web application is to try and improve attendance at their shows, here are the ideas:
+
+  - An instagram type website with the ability for vendors to post pictures of their products
+  - Comments should not be allowed, we do not want website members contacting each other until they get to the show
+  - When a vendor uploads a picture they need to tag what shows they will be at
+  - Users on the website should be able to like pictures
+  - Users will need to sign in with a 1 time passcode on their phone
+  - Users should be able to opt-in to recieve notifications about the show, such as reminders if a show is happening this weekend
+  - Users should also be able to select which show locations they want to view posts from, the default is all locations
+
+  - Vendors are the only ones able to upload pictures
+  - Vendors should have a profile page with an anonymous username and no personal information
+  - Website admin should be notified whenever a new photo is uploaded so that it can be verified to have appropriate content
+
+
+## Side Goals
+
+Our company is building this app for free, but we have ideas on how to make this a profitable venture
+
+  - We want to contact local stores and see if they would like to advertise on the application
+  - We might put a banner or logo for them placed somewhere tastefully on the website
+  - We also might put a post from them every 20 images or so, so that users see their post as they are scrolling through the pictures

@@ -1,0 +1,33 @@
+---
+description: The tech stack / libraries / framework I am using for this project
+globs: 
+alwaysApply: true
+---
+
+# Tech Stack
+
+## Web Framework
+
+- I am using Next.js 15 with React 19
+
+## Backend
+
+- I am using resend for emails @https://resend.com
+
+- I am using better-auth for authentication @https://better-auth.com
+
+## Frontend
+
+- I am using shadcn ui components from @https://ui.shadcn.com
+
+- I am using Tanstack Table to display complex data @https://tanstack.com/table/latest/docs/introduction
+
+- I am using Tanstack Query to handle requests @https://tanstack.com/query/latest/docs/framework/react/overview
+
+## Database
+
+- I am using Prisma as ORM @https://www.prisma.io/docs
+
+- I am using Neon to host a postgres database @https://neon.tech
+
+- I am using Zenstack to enhance prisma and automatically generate api routes for database and frontend queries for those api routes @https://zenstack.dev/docs/welcome
